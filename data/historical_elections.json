@@ -1,0 +1,985 @@
+{
+  "version": "2.5",
+  "methodology": {
+    "turnout": "International IDEA: total votes cast divided by registered voters; national parliamentary/presidential elections. Prefer same election family for three-election comparison.",
+    "integrity": "External-source field only. PEI is expert-survey based (0–100 where available); V-Dem indicators are model-based expert estimates with uncertainty. Missing values are not imputed.",
+    "warning": "No PolitiScope reliability ranking is generated."
+  },
+  "countries": [
+    {
+      "country": "Canada",
+      "status": "verified_seed",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": 68.7,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": 62.25,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": 67.65,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": "International IDEA Voter Turnout Database"
+    },
+    {
+      "country": "Germany",
+      "status": "verified_seed",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": 82.54,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": 76.58,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": 76.15,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": "International IDEA Voter Turnout Database"
+    },
+    {
+      "country": "Australia",
+      "status": "verified_seed",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": 90.67,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": 89.74,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": 91.89,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": "International IDEA Voter Turnout Database"
+    },
+    {
+      "country": "United Kingdom",
+      "status": "verified_seed",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": 59.76,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": 67.55,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": 69.31,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": "International IDEA Voter Turnout Database"
+    },
+    {
+      "country": "France",
+      "status": "to_complete",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": null
+    },
+    {
+      "country": "United States",
+      "status": "to_complete",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": null
+    },
+    {
+      "country": "Austria",
+      "status": "to_complete",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": null
+    },
+    {
+      "country": "Belgium",
+      "status": "to_complete",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": null
+    },
+    {
+      "country": "Denmark",
+      "status": "to_complete",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": null
+    },
+    {
+      "country": "Spain",
+      "status": "to_complete",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": null
+    },
+    {
+      "country": "Estonia",
+      "status": "to_complete",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": null
+    },
+    {
+      "country": "Finland",
+      "status": "to_complete",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": null
+    },
+    {
+      "country": "Greece",
+      "status": "to_complete",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": null
+    },
+    {
+      "country": "Hungary",
+      "status": "to_complete",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": null
+    },
+    {
+      "country": "Ireland",
+      "status": "to_complete",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": null
+    },
+    {
+      "country": "Italy",
+      "status": "to_complete",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": null
+    },
+    {
+      "country": "Latvia",
+      "status": "to_complete",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": null
+    },
+    {
+      "country": "Lithuania",
+      "status": "to_complete",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": null
+    },
+    {
+      "country": "Luxembourg",
+      "status": "to_complete",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": null
+    },
+    {
+      "country": "Malta",
+      "status": "to_complete",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": null
+    },
+    {
+      "country": "Netherlands",
+      "status": "to_complete",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": null
+    },
+    {
+      "country": "Poland",
+      "status": "to_complete",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": null
+    },
+    {
+      "country": "Portugal",
+      "status": "to_complete",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": null
+    },
+    {
+      "country": "Czech Republic",
+      "status": "to_complete",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": null
+    },
+    {
+      "country": "Romania",
+      "status": "to_complete",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": null
+    },
+    {
+      "country": "Slovakia",
+      "status": "to_complete",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": null
+    },
+    {
+      "country": "Slovenia",
+      "status": "to_complete",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": null
+    },
+    {
+      "country": "Sweden",
+      "status": "to_complete",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": null
+    },
+    {
+      "country": "Norway",
+      "status": "to_complete",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": null
+    },
+    {
+      "country": "Iceland",
+      "status": "to_complete",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": null
+    },
+    {
+      "country": "Switzerland",
+      "status": "to_complete",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": null
+    },
+    {
+      "country": "Liechtenstein",
+      "status": "to_complete",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": null
+    },
+    {
+      "country": "Andorra",
+      "status": "to_complete",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": null
+    },
+    {
+      "country": "Monaco",
+      "status": "to_complete",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": null
+    },
+    {
+      "country": "San Marino",
+      "status": "to_complete",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": null
+    },
+    {
+      "country": "Cyprus",
+      "status": "to_complete",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": null
+    },
+    {
+      "country": "Croatia",
+      "status": "to_complete",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": null
+    },
+    {
+      "country": "Bulgaria",
+      "status": "to_complete",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": null
+    },
+    {
+      "country": "New Zealand",
+      "status": "to_complete",
+      "elections": [
+        {
+          "sequence": 1,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 2,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        },
+        {
+          "sequence": 3,
+          "turnout": null,
+          "integrity": null,
+          "integritySource": null
+        }
+      ],
+      "turnoutSource": null
+    }
+  ]
+}

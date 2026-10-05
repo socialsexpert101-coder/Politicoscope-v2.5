@@ -1,0 +1,72 @@
+{
+  "schemaVersion": "2.4",
+  "lastUpdated": "2026-10-05T02:15:00Z",
+  "mode": "demo",
+  "changes": [
+    {
+      "date": "2026-10-05",
+      "title": "V2.4 — Sources & Confidence, participation et intégrité électorale externe",
+      "source": "PolitiScope"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "V2.2 — PolitiScope Index transparent + calendrier électoral occidental enrichi et sourcé",
+      "source": "PolitiScope"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "V2.1 — Coalition Lab et axe analytique à cinq zones",
+      "source": "PolitiScope"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "V1.8 — Election Night Simulator adapté au type de scrutin",
+      "source": "PolitiScope"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "V1.7 — Political Momentum : progression, recul, volatilité et fragmentation",
+      "source": "PolitiScope"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "V1.6 — réseau interactif des leaders et coopérations",
+      "source": "PolitiScope"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "V1.5 · carte géopolitique et passeports politiques",
+      "source": "PolitiScope"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "V1.4 — Future War Room 2026→2040",
+      "source": "PolitiScope"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Horizon 2040 et couverture élargie",
+      "source": "PolitiScope"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "V1.2 — cockpit, signaux, stress-test d'alliance et PWA améliorée",
+      "source": "PolitiScope",
+      "count": 0
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Structure prête pour les flux quotidiens RSS / JSON",
+      "source": "PolitiScope",
+      "count": 0
+    }
+  ],
+  "sources": [
+    "elections.json",
+    "polls.json",
+    "leaders.json",
+    "scripts/sources.json"
+  ],
+  "sourcePolicy": "Les sondages de démonstration ne sont pas des observations réelles.",
+  "version": "2.5"
+}

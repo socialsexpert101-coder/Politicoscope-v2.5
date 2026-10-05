@@ -1,0 +1,15 @@
+{
+  "asOf": "2026-10-03",
+  "leaders": [
+    {"country":"Canada","name":"Mark Carney","role":"Premier ministre · Parti libéral","party":"Parti libéral","bloc":"centre-gauche / libéral","position":42,"source":"https://www.pm.gc.ca/fr/propos"},
+    {"country":"Canada","name":"Pierre Poilievre","role":"Chef du Parti conservateur","party":"Parti conservateur","bloc":"droite / conservateur","position":78,"source":"https://www.ourcommons.ca/Members/en/house-officers"},
+    {"country":"Canada","name":"Avi Lewis","role":"Chef du NPD","party":"NPD","bloc":"gauche / social-démocrate","position":18,"source":"https://www.ndp.ca/news/avi-lewis-elected-leader-ndp"},
+    {"country":"Canada","name":"Yves-François Blanchet","role":"Chef du Bloc québécois","party":"Bloc québécois","bloc":"régionaliste / indépendantiste","position":48,"source":"https://www.ourcommons.ca/Members/en/house-officers"},
+    {"country":"États-Unis","name":"Donald Trump","role":"Président · Parti républicain","party":"Parti républicain","bloc":"droite / conservateur","position":86,"source":"https://www.whitehouse.gov/administration/donald-j-trump/"},
+    {"country":"France","name":"Emmanuel Macron","role":"Président de la République","party":"Renaissance / bloc présidentiel","bloc":"centre / libéral","position":52,"source":"https://www.elysee.fr/emmanuel-macron"},
+    {"country":"Royaume-Uni","name":"Andy Burnham","role":"Premier ministre · Labour","party":"Labour","bloc":"centre-gauche / travailliste","position":35,"source":"https://www.gov.uk/government/ministers/prime-minister"},
+    {"country":"Allemagne","name":"Friedrich Merz","role":"Chancelier · CDU/CSU","party":"CDU","bloc":"centre-droit / conservateur","position":62,"source":"https://www.bundesregierung.de/breg-fr/le-gouvernement-f%C3%A9d%C3%A9ral/conseil-des-ministres-f%C3%A9d%C3%A9ral/2343774-2343774"},
+    {"country":"Espagne","name":"Pedro Sánchez","role":"Président du gouvernement · PSOE","party":"PSOE","bloc":"centre-gauche / social-démocrate","position":31,"source":"https://www.lamoncloa.gob.es/lang/ca/presidente/biografia/paginas/index.aspx"},
+    {"country":"Italie","name":"Giorgia Meloni","role":"Présidente du Conseil · Fratelli d'Italia","party":"Fratelli d'Italia","bloc":"droite / conservatrice","position":74,"source":"https://presidenza.governo.it/AmministrazioneTrasparente/Organizzazione/OrganiIndirizzoPolitico/GovernoMeloni/Pres_Meloni.html"}
+  ]
+}

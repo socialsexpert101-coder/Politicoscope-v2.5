@@ -1,0 +1,224 @@
+{
+  "version": "1.3",
+  "horizonEnd": 2040,
+  "method": "Projection de scénario, pas une prévision électorale. Pour chaque pays, le moteur utilise les sondages disponibles et une extrapolation prudente de tendance; l’incertitude augmente avec l’horizon. Sans données suffisantes: N/D.",
+  "countries": [
+    {
+      "name": "Allemagne",
+      "region": "Europe",
+      "status": "covered"
+    },
+    {
+      "name": "Autriche",
+      "region": "Europe",
+      "status": "covered"
+    },
+    {
+      "name": "Belgique",
+      "region": "Europe",
+      "status": "covered"
+    },
+    {
+      "name": "Bulgarie",
+      "region": "Europe",
+      "status": "covered"
+    },
+    {
+      "name": "Chypre",
+      "region": "Europe",
+      "status": "covered"
+    },
+    {
+      "name": "Croatie",
+      "region": "Europe",
+      "status": "covered"
+    },
+    {
+      "name": "Danemark",
+      "region": "Europe",
+      "status": "covered"
+    },
+    {
+      "name": "Espagne",
+      "region": "Europe",
+      "status": "covered"
+    },
+    {
+      "name": "Estonie",
+      "region": "Europe",
+      "status": "covered"
+    },
+    {
+      "name": "Finlande",
+      "region": "Europe",
+      "status": "covered"
+    },
+    {
+      "name": "France",
+      "region": "Europe",
+      "status": "covered"
+    },
+    {
+      "name": "Grèce",
+      "region": "Europe",
+      "status": "covered"
+    },
+    {
+      "name": "Hongrie",
+      "region": "Europe",
+      "status": "covered"
+    },
+    {
+      "name": "Irlande",
+      "region": "Europe",
+      "status": "covered"
+    },
+    {
+      "name": "Italie",
+      "region": "Europe",
+      "status": "covered"
+    },
+    {
+      "name": "Lettonie",
+      "region": "Europe",
+      "status": "covered"
+    },
+    {
+      "name": "Lituanie",
+      "region": "Europe",
+      "status": "covered"
+    },
+    {
+      "name": "Luxembourg",
+      "region": "Europe",
+      "status": "covered"
+    },
+    {
+      "name": "Malte",
+      "region": "Europe",
+      "status": "covered"
+    },
+    {
+      "name": "Pays-Bas",
+      "region": "Europe",
+      "status": "covered"
+    },
+    {
+      "name": "Pologne",
+      "region": "Europe",
+      "status": "covered"
+    },
+    {
+      "name": "Portugal",
+      "region": "Europe",
+      "status": "covered"
+    },
+    {
+      "name": "République tchèque",
+      "region": "Europe",
+      "status": "covered"
+    },
+    {
+      "name": "Roumanie",
+      "region": "Europe",
+      "status": "covered"
+    },
+    {
+      "name": "Slovaquie",
+      "region": "Europe",
+      "status": "covered"
+    },
+    {
+      "name": "Slovénie",
+      "region": "Europe",
+      "status": "covered"
+    },
+    {
+      "name": "Suède",
+      "region": "Europe",
+      "status": "covered"
+    },
+    {
+      "name": "Royaume-Uni",
+      "region": "Europe",
+      "status": "covered"
+    },
+    {
+      "name": "Norvège",
+      "region": "Europe",
+      "status": "covered"
+    },
+    {
+      "name": "Islande",
+      "region": "Europe",
+      "status": "covered"
+    },
+    {
+      "name": "Suisse",
+      "region": "Europe",
+      "status": "covered"
+    },
+    {
+      "name": "Liechtenstein",
+      "region": "Europe",
+      "status": "covered"
+    },
+    {
+      "name": "Andorre",
+      "region": "Europe",
+      "status": "covered"
+    },
+    {
+      "name": "Monaco",
+      "region": "Europe",
+      "status": "covered"
+    },
+    {
+      "name": "Saint-Marin",
+      "region": "Europe",
+      "status": "covered"
+    },
+    {
+      "name": "Canada",
+      "region": "Amérique du Nord",
+      "status": "covered"
+    },
+    {
+      "name": "États-Unis",
+      "region": "Amérique du Nord",
+      "status": "covered"
+    },
+    {
+      "name": "Australie",
+      "region": "Océanie",
+      "status": "covered"
+    },
+    {
+      "name": "Nouvelle-Zélande",
+      "region": "Océanie",
+      "status": "covered"
+    }
+  ],
+  "scenarios": [
+    "Centre-gauche",
+    "Centre / coalition",
+    "Centre-droit"
+  ],
+  "years": [
+    2026,
+    2027,
+    2028,
+    2029,
+    2030,
+    2031,
+    2032,
+    2033,
+    2034,
+    2035,
+    2036,
+    2037,
+    2038,
+    2039,
+    2040
+  ]
+}

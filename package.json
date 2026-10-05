@@ -1,0 +1,10 @@
+{
+  "name": "politicoscope",
+  "version": "2.5.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/update.mjs",
+    "serve": "node server.mjs"
+  }
+}

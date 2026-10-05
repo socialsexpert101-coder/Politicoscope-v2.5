@@ -1,0 +1,102 @@
+[
+  {
+    "country": "Canada",
+    "party": "Parti libéral",
+    "value": 39,
+    "position": 42,
+    "date": "2026-09-28",
+    "source": "DÉMO — flux à configurer",
+    "sampleSize": 1200,
+    "demo": true
+  },
+  {
+    "country": "Canada",
+    "party": "Parti conservateur",
+    "value": 36,
+    "position": 76,
+    "date": "2026-09-28",
+    "source": "DÉMO — flux à configurer",
+    "sampleSize": 1200,
+    "demo": true
+  },
+  {
+    "country": "Canada",
+    "party": "NPD",
+    "value": 13,
+    "position": 24,
+    "date": "2026-09-28",
+    "source": "DÉMO — flux à configurer",
+    "sampleSize": 1200,
+    "demo": true
+  },
+  {
+    "country": "France",
+    "party": "Bloc centre",
+    "value": 22,
+    "position": 52,
+    "date": "2026-09-25",
+    "source": "DÉMO — flux à configurer",
+    "sampleSize": 1500,
+    "demo": true
+  },
+  {
+    "country": "France",
+    "party": "Droite nationale",
+    "value": 31,
+    "position": 84,
+    "date": "2026-09-25",
+    "source": "DÉMO — flux à configurer",
+    "sampleSize": 1500,
+    "demo": true
+  },
+  {
+    "country": "France",
+    "party": "Gauche unie",
+    "value": 27,
+    "position": 22,
+    "date": "2026-09-25",
+    "source": "DÉMO — flux à configurer",
+    "sampleSize": 1500,
+    "demo": true
+  },
+  {
+    "country": "Royaume-Uni",
+    "party": "Reform UK",
+    "value": 30,
+    "position": 82,
+    "date": "2026-09-27",
+    "source": "DÉMO — flux à configurer",
+    "sampleSize": 1800,
+    "demo": true
+  },
+  {
+    "country": "Royaume-Uni",
+    "party": "Labour",
+    "value": 23,
+    "position": 36,
+    "date": "2026-09-27",
+    "source": "DÉMO — flux à configurer",
+    "sampleSize": 1800,
+    "demo": true
+  },
+  {
+    "country": "Royaume-Uni",
+    "party": "Conservatives",
+    "value": 19,
+    "position": 70,
+    "date": "2026-09-27",
+    "source": "DÉMO — flux à configurer",
+    "sampleSize": 1800,
+    "demo": true
+  },
+  {
+    "country": "Royaume-Uni",
+    "party": "Liberal Democrats",
+    "value": 12,
+    "position": 46,
+    "date": "2026-09-27",
+    "source": "DÉMO — flux à configurer",
+    "sampleSize": 1800,
+    "demo": true
+  }
+]

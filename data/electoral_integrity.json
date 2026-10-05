@@ -1,0 +1,806 @@
+{
+  "version": "2.4",
+  "definition": "Participation = part des électeurs inscrits ayant voté, selon International IDEA. Les scores d’intégrité ne sont jamais inférés par PolitiScope.",
+  "countries": [
+    {
+      "country": "Allemagne",
+      "elections": [
+        {
+          "date": "2025-02-23",
+          "turnoutRegisteredPct": 82.54,
+          "type": "Parlementaire",
+          "source": "International IDEA Voter Turnout Database",
+          "sourceUrl": "https://www.idea.int/data-tools/data/voter-turnout-database"
+        },
+        {
+          "date": "2021-09-26",
+          "turnoutRegisteredPct": 76.58,
+          "type": "Parlementaire",
+          "source": "International IDEA Voter Turnout Database",
+          "sourceUrl": "https://www.idea.int/data-tools/data/voter-turnout-database"
+        },
+        {
+          "date": "2017-09-24",
+          "turnoutRegisteredPct": 76.15,
+          "type": "Parlementaire",
+          "source": "International IDEA Voter Turnout Database",
+          "sourceUrl": "https://www.idea.int/data-tools/data/voter-turnout-database"
+        }
+      ],
+      "turnoutStatus": "vérifié",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    },
+    {
+      "country": "Autriche",
+      "elections": [
+        {
+          "date": "2024-09-29",
+          "turnoutRegisteredPct": 76.25,
+          "type": "Parlementaire",
+          "source": "International IDEA Voter Turnout Database",
+          "sourceUrl": "https://www.idea.int/data-tools/data/voter-turnout-database"
+        },
+        {
+          "date": "2019-09-29",
+          "turnoutRegisteredPct": 75.59,
+          "type": "Parlementaire",
+          "source": "International IDEA Voter Turnout Database",
+          "sourceUrl": "https://www.idea.int/data-tools/data/voter-turnout-database"
+        },
+        {
+          "date": "2017-10-15",
+          "turnoutRegisteredPct": 80.0,
+          "type": "Parlementaire",
+          "source": "International IDEA Voter Turnout Database",
+          "sourceUrl": "https://www.idea.int/data-tools/data/voter-turnout-database"
+        }
+      ],
+      "turnoutStatus": "vérifié",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    },
+    {
+      "country": "Belgique",
+      "elections": [
+        {
+          "date": "2024-06-09",
+          "turnoutRegisteredPct": 87.42,
+          "type": "Parlementaire",
+          "source": "International IDEA Voter Turnout Database",
+          "sourceUrl": "https://www.idea.int/data-tools/data/voter-turnout-database"
+        },
+        {
+          "date": "2019-05-26",
+          "turnoutRegisteredPct": 88.38,
+          "type": "Parlementaire",
+          "source": "International IDEA Voter Turnout Database",
+          "sourceUrl": "https://www.idea.int/data-tools/data/voter-turnout-database"
+        },
+        {
+          "date": "2014-05-25",
+          "turnoutRegisteredPct": 89.37,
+          "type": "Parlementaire",
+          "source": "International IDEA Voter Turnout Database",
+          "sourceUrl": "https://www.idea.int/data-tools/data/voter-turnout-database"
+        }
+      ],
+      "turnoutStatus": "vérifié",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    },
+    {
+      "country": "Bulgarie",
+      "elections": [],
+      "turnoutStatus": "à compléter depuis IDEA/autorité électorale",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    },
+    {
+      "country": "Chypre",
+      "elections": [],
+      "turnoutStatus": "à compléter depuis IDEA/autorité électorale",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    },
+    {
+      "country": "Croatie",
+      "elections": [],
+      "turnoutStatus": "à compléter depuis IDEA/autorité électorale",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    },
+    {
+      "country": "Danemark",
+      "elections": [],
+      "turnoutStatus": "à compléter depuis IDEA/autorité électorale",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    },
+    {
+      "country": "Espagne",
+      "elections": [],
+      "turnoutStatus": "à compléter depuis IDEA/autorité électorale",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    },
+    {
+      "country": "Estonie",
+      "elections": [],
+      "turnoutStatus": "à compléter depuis IDEA/autorité électorale",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    },
+    {
+      "country": "Finlande",
+      "elections": [],
+      "turnoutStatus": "à compléter depuis IDEA/autorité électorale",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    },
+    {
+      "country": "France",
+      "elections": [
+        {
+          "date": "2024-07-07",
+          "turnoutRegisteredPct": 66.63,
+          "type": "Parlementaire",
+          "source": "International IDEA Voter Turnout Database",
+          "sourceUrl": "https://www.idea.int/data-tools/data/voter-turnout-database"
+        },
+        {
+          "date": "2024-06-30",
+          "turnoutRegisteredPct": 66.71,
+          "type": "Parlementaire",
+          "source": "International IDEA Voter Turnout Database",
+          "sourceUrl": "https://www.idea.int/data-tools/data/voter-turnout-database"
+        },
+        {
+          "date": "2022-06-19",
+          "turnoutRegisteredPct": 46.23,
+          "type": "Parlementaire",
+          "source": "International IDEA Voter Turnout Database",
+          "sourceUrl": "https://www.idea.int/data-tools/data/voter-turnout-database"
+        }
+      ],
+      "turnoutStatus": "vérifié",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    },
+    {
+      "country": "Grèce",
+      "elections": [],
+      "turnoutStatus": "à compléter depuis IDEA/autorité électorale",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    },
+    {
+      "country": "Hongrie",
+      "elections": [],
+      "turnoutStatus": "à compléter depuis IDEA/autorité électorale",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    },
+    {
+      "country": "Irlande",
+      "elections": [],
+      "turnoutStatus": "à compléter depuis IDEA/autorité électorale",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    },
+    {
+      "country": "Italie",
+      "elections": [],
+      "turnoutStatus": "à compléter depuis IDEA/autorité électorale",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    },
+    {
+      "country": "Lettonie",
+      "elections": [],
+      "turnoutStatus": "à compléter depuis IDEA/autorité électorale",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    },
+    {
+      "country": "Lituanie",
+      "elections": [],
+      "turnoutStatus": "à compléter depuis IDEA/autorité électorale",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    },
+    {
+      "country": "Luxembourg",
+      "elections": [],
+      "turnoutStatus": "à compléter depuis IDEA/autorité électorale",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    },
+    {
+      "country": "Malte",
+      "elections": [],
+      "turnoutStatus": "à compléter depuis IDEA/autorité électorale",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    },
+    {
+      "country": "Pays-Bas",
+      "elections": [],
+      "turnoutStatus": "à compléter depuis IDEA/autorité électorale",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    },
+    {
+      "country": "Pologne",
+      "elections": [],
+      "turnoutStatus": "à compléter depuis IDEA/autorité électorale",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    },
+    {
+      "country": "Portugal",
+      "elections": [],
+      "turnoutStatus": "à compléter depuis IDEA/autorité électorale",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    },
+    {
+      "country": "République tchèque",
+      "elections": [],
+      "turnoutStatus": "à compléter depuis IDEA/autorité électorale",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    },
+    {
+      "country": "Roumanie",
+      "elections": [],
+      "turnoutStatus": "à compléter depuis IDEA/autorité électorale",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    },
+    {
+      "country": "Slovaquie",
+      "elections": [],
+      "turnoutStatus": "à compléter depuis IDEA/autorité électorale",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    },
+    {
+      "country": "Slovénie",
+      "elections": [],
+      "turnoutStatus": "à compléter depuis IDEA/autorité électorale",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    },
+    {
+      "country": "Suède",
+      "elections": [],
+      "turnoutStatus": "à compléter depuis IDEA/autorité électorale",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    },
+    {
+      "country": "Royaume-Uni",
+      "elections": [
+        {
+          "date": "2024-07-04",
+          "turnoutRegisteredPct": 59.76,
+          "type": "Parlementaire",
+          "source": "International IDEA Voter Turnout Database",
+          "sourceUrl": "https://www.idea.int/data-tools/data/voter-turnout-database"
+        },
+        {
+          "date": "2019-12-12",
+          "turnoutRegisteredPct": 67.55,
+          "type": "Parlementaire",
+          "source": "International IDEA Voter Turnout Database",
+          "sourceUrl": "https://www.idea.int/data-tools/data/voter-turnout-database"
+        },
+        {
+          "date": "2017-06-08",
+          "turnoutRegisteredPct": 69.31,
+          "type": "Parlementaire",
+          "source": "International IDEA Voter Turnout Database",
+          "sourceUrl": "https://www.idea.int/data-tools/data/voter-turnout-database"
+        }
+      ],
+      "turnoutStatus": "vérifié",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    },
+    {
+      "country": "Norvège",
+      "elections": [],
+      "turnoutStatus": "à compléter depuis IDEA/autorité électorale",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    },
+    {
+      "country": "Islande",
+      "elections": [],
+      "turnoutStatus": "à compléter depuis IDEA/autorité électorale",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    },
+    {
+      "country": "Suisse",
+      "elections": [],
+      "turnoutStatus": "à compléter depuis IDEA/autorité électorale",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    },
+    {
+      "country": "Liechtenstein",
+      "elections": [],
+      "turnoutStatus": "à compléter depuis IDEA/autorité électorale",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    },
+    {
+      "country": "Andorre",
+      "elections": [],
+      "turnoutStatus": "à compléter depuis IDEA/autorité électorale",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    },
+    {
+      "country": "Monaco",
+      "elections": [],
+      "turnoutStatus": "à compléter depuis IDEA/autorité électorale",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    },
+    {
+      "country": "Saint-Marin",
+      "elections": [],
+      "turnoutStatus": "à compléter depuis IDEA/autorité électorale",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    },
+    {
+      "country": "Canada",
+      "elections": [
+        {
+          "date": "2025-04-28",
+          "turnoutRegisteredPct": 68.7,
+          "type": "Parlementaire",
+          "source": "International IDEA Voter Turnout Database",
+          "sourceUrl": "https://www.idea.int/data-tools/data/voter-turnout-database"
+        },
+        {
+          "date": "2021-09-20",
+          "turnoutRegisteredPct": 62.25,
+          "type": "Parlementaire",
+          "source": "International IDEA Voter Turnout Database",
+          "sourceUrl": "https://www.idea.int/data-tools/data/voter-turnout-database"
+        },
+        {
+          "date": "2019-10-21",
+          "turnoutRegisteredPct": 67.65,
+          "type": "Parlementaire",
+          "source": "International IDEA Voter Turnout Database",
+          "sourceUrl": "https://www.idea.int/data-tools/data/voter-turnout-database"
+        }
+      ],
+      "turnoutStatus": "vérifié",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    },
+    {
+      "country": "États-Unis",
+      "elections": [
+        {
+          "date": "2024-11-05",
+          "turnoutRegisteredPct": 64.47,
+          "type": "Parlementaire",
+          "source": "International IDEA Voter Turnout Database",
+          "sourceUrl": "https://www.idea.int/data-tools/data/voter-turnout-database"
+        },
+        {
+          "date": "2022-11-08",
+          "turnoutRegisteredPct": 55.02,
+          "type": "Parlementaire",
+          "source": "International IDEA Voter Turnout Database",
+          "sourceUrl": "https://www.idea.int/data-tools/data/voter-turnout-database"
+        },
+        {
+          "date": "2020-11-03",
+          "turnoutRegisteredPct": 70.75,
+          "type": "Parlementaire",
+          "source": "International IDEA Voter Turnout Database",
+          "sourceUrl": "https://www.idea.int/data-tools/data/voter-turnout-database"
+        }
+      ],
+      "turnoutStatus": "vérifié",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    },
+    {
+      "country": "Australie",
+      "elections": [
+        {
+          "date": "2025-05-03",
+          "turnoutRegisteredPct": 90.67,
+          "type": "Parlementaire",
+          "source": "International IDEA Voter Turnout Database",
+          "sourceUrl": "https://www.idea.int/data-tools/data/voter-turnout-database"
+        },
+        {
+          "date": "2022-05-21",
+          "turnoutRegisteredPct": 89.74,
+          "type": "Parlementaire",
+          "source": "International IDEA Voter Turnout Database",
+          "sourceUrl": "https://www.idea.int/data-tools/data/voter-turnout-database"
+        },
+        {
+          "date": "2019-05-18",
+          "turnoutRegisteredPct": 91.89,
+          "type": "Parlementaire",
+          "source": "International IDEA Voter Turnout Database",
+          "sourceUrl": "https://www.idea.int/data-tools/data/voter-turnout-database"
+        }
+      ],
+      "turnoutStatus": "vérifié",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    },
+    {
+      "country": "Nouvelle-Zélande",
+      "elections": [],
+      "turnoutStatus": "à compléter depuis IDEA/autorité électorale",
+      "integrity": {
+        "provider": "Electoral Integrity Project (PEI)",
+        "score": null,
+        "scale": "0–100",
+        "status": "à intégrer par scrutin depuis PEI 12.0 / source primaire",
+        "sourceUrl": "https://www.electoralintegrityproject.com/pei"
+      },
+      "vdem": {
+        "status": "complément méthodologique disponible",
+        "sourceUrl": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    }
+  ]
+}

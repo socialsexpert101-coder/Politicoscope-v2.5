@@ -1,0 +1,1282 @@
+[
+  {
+    "date": "2026-06-01",
+    "country": "Hongrie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2026-06-01",
+    "country": "Nouvelle-Zélande",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Océanie",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2026-06-01",
+    "country": "Slovénie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2026-09-13",
+    "country": "Suède",
+    "type": "Élections législatives",
+    "region": "Europe",
+    "certainty": "confirmée",
+    "precision": "date officielle",
+    "system": "Proportionnel",
+    "source": "OSCE/ODIHR",
+    "sourceUrl": "https://odihr.osce.org/odihr/elections"
+  },
+  {
+    "date": "2026-10-03",
+    "country": "Lettonie",
+    "type": "Élections législatives",
+    "region": "Europe",
+    "certainty": "confirmée",
+    "precision": "date officielle",
+    "system": "Proportionnel",
+    "source": "OSCE/ODIHR · IPU Parline",
+    "sourceUrl": "https://odihr.osce.org/odihr/elections"
+  },
+  {
+    "country": "Québec",
+    "region": "Amérique du Nord",
+    "type": "Élection provinciale",
+    "date": "2026-10-05",
+    "certainty": "confirmée",
+    "system": "Majoritaire uninominal",
+    "source": "Calendrier électoral du gouvernement du Canada"
+  },
+  {
+    "date": "2026-10-25",
+    "country": "Bulgarie",
+    "type": "Élection présidentielle",
+    "region": "Europe",
+    "certainty": "confirmée",
+    "precision": "date officielle",
+    "system": "Présidentiel",
+    "source": "OSCE/ODIHR",
+    "sourceUrl": "https://odihr.osce.org/odihr/elections"
+  },
+  {
+    "country": "États-Unis",
+    "region": "Amérique du Nord",
+    "type": "Élections de mi-mandat",
+    "date": "2026-11-03",
+    "certainty": "confirmée",
+    "system": "Majoritaire par circonscriptions",
+    "source": "Federal Election Commission"
+  },
+  {
+    "date": "2026-11-03",
+    "country": "États-Unis",
+    "type": "Élections de mi-mandat au Congrès",
+    "region": "Amérique du Nord",
+    "certainty": "confirmée",
+    "precision": "date officielle",
+    "system": "Circonscriptions / Sénat",
+    "source": "USAGov · OSCE/ODIHR",
+    "sourceUrl": "https://www.usa.gov/midterm-elections"
+  },
+  {
+    "date": "2027-03-07",
+    "country": "Estonie",
+    "type": "Élections législatives",
+    "region": "Europe",
+    "certainty": "confirmée",
+    "precision": "date publiée",
+    "system": "Proportionnel",
+    "source": "OSCE/ODIHR",
+    "sourceUrl": "https://odihr.osce.org/odihr/elections"
+  },
+  {
+    "date": "2027-04-01",
+    "country": "Andorre",
+    "type": "Élections législatives",
+    "region": "Europe",
+    "certainty": "attendue",
+    "precision": "avril 2027",
+    "system": "Mixte",
+    "source": "OSCE/ODIHR",
+    "sourceUrl": "https://odihr.osce.org/odihr/elections"
+  },
+  {
+    "date": "2027-04-18",
+    "country": "Finlande",
+    "type": "Élections législatives",
+    "region": "Europe",
+    "certainty": "confirmée",
+    "precision": "date publiée",
+    "system": "Proportionnel",
+    "source": "OSCE/ODIHR",
+    "sourceUrl": "https://odihr.osce.org/odihr/elections"
+  },
+  {
+    "country": "France",
+    "region": "Europe",
+    "type": "Présidentielle — 1er tour",
+    "date": "2027-04-18",
+    "certainty": "confirmée",
+    "system": "Deux tours",
+    "source": "Service-Public.fr",
+    "precision": "date officielle",
+    "sourceUrl": "https://www.service-public.fr/particuliers/vosdroits/F1939"
+  },
+  {
+    "country": "France",
+    "region": "Europe",
+    "type": "Présidentielle — 2e tour",
+    "date": "2027-05-02",
+    "certainty": "confirmée",
+    "system": "Deux tours",
+    "source": "Service-Public.fr",
+    "precision": "date officielle",
+    "sourceUrl": "https://www.service-public.fr/particuliers/vosdroits/F1939"
+  },
+  {
+    "date": "2027-06-01",
+    "country": "Grèce",
+    "type": "Élections législatives",
+    "region": "Europe",
+    "certainty": "attendue",
+    "precision": "2027",
+    "system": "Proportionnel renforcé",
+    "source": "OSCE/ODIHR",
+    "sourceUrl": "https://odihr.osce.org/odihr/elections"
+  },
+  {
+    "date": "2027-06-01",
+    "country": "Italie",
+    "type": "Élections législatives",
+    "region": "Europe",
+    "certainty": "attendue",
+    "precision": "2027",
+    "system": "Mixte",
+    "source": "OSCE/ODIHR",
+    "sourceUrl": "https://odihr.osce.org/odihr/elections"
+  },
+  {
+    "date": "2027-06-01",
+    "country": "Malte",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2027-06-01",
+    "country": "Pologne",
+    "type": "Élections législatives",
+    "region": "Europe",
+    "certainty": "attendue",
+    "precision": "2027",
+    "system": "Proportionnel",
+    "source": "OSCE/ODIHR",
+    "sourceUrl": "https://odihr.osce.org/odihr/elections"
+  },
+  {
+    "date": "2027-08-01",
+    "country": "Espagne",
+    "type": "Élections législatives",
+    "region": "Europe",
+    "certainty": "attendue",
+    "precision": "août 2027 attendu",
+    "system": "Proportionnel",
+    "source": "OSCE/ODIHR",
+    "sourceUrl": "https://odihr.osce.org/odihr/elections"
+  },
+  {
+    "date": "2027-09-01",
+    "country": "Slovaquie",
+    "type": "Élections législatives",
+    "region": "Europe",
+    "certainty": "attendue",
+    "precision": "septembre 2027 attendu",
+    "system": "Proportionnel",
+    "source": "OSCE/ODIHR",
+    "sourceUrl": "https://odihr.osce.org/odihr/elections"
+  },
+  {
+    "date": "2027-10-24",
+    "country": "Suisse",
+    "type": "Élections fédérales",
+    "region": "Europe",
+    "certainty": "confirmée",
+    "precision": "date publiée",
+    "system": "Conseil national / Conseil des États",
+    "source": "OSCE/ODIHR",
+    "sourceUrl": "https://odihr.osce.org/odihr/elections"
+  },
+  {
+    "country": "France",
+    "region": "Europe",
+    "type": "Départementales / régionales",
+    "date": "2028-03-01",
+    "certainty": "attendue",
+    "system": "Scrutins à préciser",
+    "source": "Service-Public.fr",
+    "precision": "mars 2028",
+    "sourceUrl": "https://www.service-public.fr/particuliers/vosdroits/F1958"
+  },
+  {
+    "country": "Australie",
+    "region": "Océanie",
+    "type": "Élection fédérale",
+    "date": "2028-05-01",
+    "certainty": "à préciser",
+    "system": "Préférentiel / proportionnel au Sénat",
+    "source": "Australian Electoral Commission"
+  },
+  {
+    "date": "2028-06-01",
+    "country": "Chypre",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2028-06-01",
+    "country": "Croatie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2028-06-01",
+    "country": "Danemark",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2028-06-01",
+    "country": "Islande",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2028-06-01",
+    "country": "Lituanie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2028-06-01",
+    "country": "Luxembourg",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2028-06-01",
+    "country": "Monaco",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2028-06-01",
+    "country": "Pays-Bas",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2028-06-01",
+    "country": "Roumanie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2028-06-01",
+    "country": "Saint-Marin",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2028-11-07",
+    "country": "États-Unis",
+    "type": "Élection présidentielle",
+    "region": "Amérique du Nord",
+    "certainty": "confirmée",
+    "precision": "date officielle",
+    "system": "Collège électoral",
+    "source": "USAGov",
+    "sourceUrl": "https://www.usa.gov/presidential-election-process"
+  },
+  {
+    "country": "Allemagne",
+    "region": "Europe",
+    "type": "Élection fédérale — cycle attendu",
+    "date": "2029-02-01",
+    "certainty": "à préciser",
+    "system": "Mixte compensatoire",
+    "source": "Bundeswahlleiter"
+  },
+  {
+    "date": "2029-06-01",
+    "country": "Autriche",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2029-06-01",
+    "country": "Belgique",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "country": "France",
+    "region": "Europe",
+    "type": "Élections européennes",
+    "date": "2029-06-01",
+    "certainty": "année confirmée",
+    "system": "Proportionnel",
+    "source": "Service-Public.fr"
+  },
+  {
+    "country": "France",
+    "region": "Europe",
+    "type": "Élections législatives",
+    "date": "2029-06-01",
+    "certainty": "fenêtre indicative",
+    "system": "Deux tours",
+    "source": "Service-Public.fr"
+  },
+  {
+    "date": "2029-06-01",
+    "country": "Irlande",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2029-06-01",
+    "country": "Liechtenstein",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2029-06-01",
+    "country": "Norvège",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2029-06-01",
+    "country": "Nouvelle-Zélande",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Océanie",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2029-06-01",
+    "country": "Portugal",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2029-06-01",
+    "country": "République tchèque",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2029-06-01",
+    "country": "Tchéquie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2029-06-01",
+    "country": "Union européenne",
+    "type": "Élections au Parlement européen",
+    "region": "Europe",
+    "certainty": "attendue",
+    "precision": "année 2029 confirmée; dates nationales à fixer",
+    "system": "Proportionnel selon règles nationales",
+    "source": "Parlement européen",
+    "sourceUrl": "https://elections.europa.eu/fr/how-elections-work/"
+  },
+  {
+    "country": "Royaume-Uni",
+    "region": "Europe",
+    "type": "Élection générale — fenêtre légale",
+    "date": "2029-08-01",
+    "certainty": "fenêtre indicative",
+    "system": "Majoritaire uninominal",
+    "source": "UK Parliament / Electoral Commission"
+  },
+  {
+    "date": "2029-10-15",
+    "country": "Canada",
+    "type": "Élection fédérale — date fixe",
+    "region": "Amérique du Nord",
+    "certainty": "confirmée",
+    "precision": "date fixe; scrutin anticipé possible",
+    "system": "Majoritaire uninominal",
+    "source": "Élections Canada",
+    "sourceUrl": "https://www.elections.ca/content.aspx?dir=oec&document=p2&lang=e&section=abo"
+  },
+  {
+    "date": "2030-06-01",
+    "country": "Bulgarie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2030-06-01",
+    "country": "Hongrie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2030-06-01",
+    "country": "Lettonie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2030-06-01",
+    "country": "Slovénie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2030-06-01",
+    "country": "Suède",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2031-06-01",
+    "country": "Andorre",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2031-06-01",
+    "country": "Australie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Océanie",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2031-06-01",
+    "country": "Espagne",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2031-06-01",
+    "country": "Estonie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2031-06-01",
+    "country": "Finlande",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2031-06-01",
+    "country": "Grèce",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2031-06-01",
+    "country": "Pologne",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2031-06-01",
+    "country": "Slovaquie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2031-06-01",
+    "country": "Suisse",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2032-06-01",
+    "country": "Croatie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2032-06-01",
+    "country": "Danemark",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2032-06-01",
+    "country": "France",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2032-06-01",
+    "country": "Islande",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2032-06-01",
+    "country": "Italie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2032-06-01",
+    "country": "Lituanie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2032-06-01",
+    "country": "Malte",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2032-06-01",
+    "country": "Nouvelle-Zélande",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Océanie",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2032-06-01",
+    "country": "Pays-Bas",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2032-06-01",
+    "country": "Roumanie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2032-06-01",
+    "country": "États-Unis",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Amérique du Nord",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2033-06-01",
+    "country": "Allemagne",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2033-06-01",
+    "country": "Canada",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Amérique du Nord",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2033-06-01",
+    "country": "Chypre",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2033-06-01",
+    "country": "Liechtenstein",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2033-06-01",
+    "country": "Luxembourg",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2033-06-01",
+    "country": "Monaco",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2033-06-01",
+    "country": "Norvège",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2033-06-01",
+    "country": "Portugal",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2033-06-01",
+    "country": "République tchèque",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2033-06-01",
+    "country": "Saint-Marin",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2033-06-01",
+    "country": "Tchéquie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2034-06-01",
+    "country": "Australie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Océanie",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2034-06-01",
+    "country": "Autriche",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2034-06-01",
+    "country": "Belgique",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2034-06-01",
+    "country": "Bulgarie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2034-06-01",
+    "country": "Hongrie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2034-06-01",
+    "country": "Irlande",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2034-06-01",
+    "country": "Lettonie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2034-06-01",
+    "country": "Royaume-Uni",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2034-06-01",
+    "country": "Slovénie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2034-06-01",
+    "country": "Suède",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2035-06-01",
+    "country": "Andorre",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2035-06-01",
+    "country": "Espagne",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2035-06-01",
+    "country": "Estonie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2035-06-01",
+    "country": "Finlande",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2035-06-01",
+    "country": "Grèce",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2035-06-01",
+    "country": "Nouvelle-Zélande",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Océanie",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2035-06-01",
+    "country": "Pologne",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2035-06-01",
+    "country": "Slovaquie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2035-06-01",
+    "country": "Suisse",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2036-06-01",
+    "country": "Croatie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2036-06-01",
+    "country": "Danemark",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2036-06-01",
+    "country": "Islande",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2036-06-01",
+    "country": "Lituanie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2036-06-01",
+    "country": "Pays-Bas",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2036-06-01",
+    "country": "Roumanie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2036-06-01",
+    "country": "États-Unis",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Amérique du Nord",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2037-06-01",
+    "country": "Allemagne",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2037-06-01",
+    "country": "Australie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Océanie",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2037-06-01",
+    "country": "Canada",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Amérique du Nord",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2037-06-01",
+    "country": "France",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2037-06-01",
+    "country": "Italie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2037-06-01",
+    "country": "Liechtenstein",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2037-06-01",
+    "country": "Malte",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2037-06-01",
+    "country": "Norvège",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2037-06-01",
+    "country": "Portugal",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2037-06-01",
+    "country": "République tchèque",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2037-06-01",
+    "country": "Tchéquie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2038-06-01",
+    "country": "Bulgarie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2038-06-01",
+    "country": "Chypre",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2038-06-01",
+    "country": "Hongrie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2038-06-01",
+    "country": "Lettonie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2038-06-01",
+    "country": "Luxembourg",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2038-06-01",
+    "country": "Monaco",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2038-06-01",
+    "country": "Nouvelle-Zélande",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Océanie",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2038-06-01",
+    "country": "Saint-Marin",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2038-06-01",
+    "country": "Slovénie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2038-06-01",
+    "country": "Suède",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2039-06-01",
+    "country": "Andorre",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2039-06-01",
+    "country": "Autriche",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2039-06-01",
+    "country": "Belgique",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2039-06-01",
+    "country": "Espagne",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2039-06-01",
+    "country": "Estonie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2039-06-01",
+    "country": "Finlande",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2039-06-01",
+    "country": "Grèce",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2039-06-01",
+    "country": "Irlande",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2039-06-01",
+    "country": "Pologne",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2039-06-01",
+    "country": "Royaume-Uni",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2039-06-01",
+    "country": "Slovaquie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2039-06-01",
+    "country": "Suisse",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2040-06-01",
+    "country": "Australie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Océanie",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2040-06-01",
+    "country": "Croatie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2040-06-01",
+    "country": "Danemark",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2040-06-01",
+    "country": "Islande",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2040-06-01",
+    "country": "Lituanie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2040-06-01",
+    "country": "Pays-Bas",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2040-06-01",
+    "country": "Roumanie",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Europe",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  },
+  {
+    "date": "2040-06-01",
+    "country": "États-Unis",
+    "type": "Élection nationale — horizon indicatif",
+    "region": "Amérique du Nord",
+    "certainty": "indicative",
+    "system": "cycle théorique; date réelle à confirmer"
+  }
+]

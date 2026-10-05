@@ -1,0 +1,23 @@
+{
+  "version": "1.4",
+  "horizonStart": 2026,
+  "horizonEnd": 2040,
+  "scenarios": [
+    {
+      "id": "maintien",
+      "name": "Maintien",
+      "description": "Cadre de référence qui prolonge les rapports de force observés sans supposer un changement futur."
+    },
+    {
+      "id": "convergence",
+      "name": "Convergence",
+      "description": "Scénario analytique de rapprochement graduel entre positions politiques. Il ne prédit pas un résultat électoral."
+    },
+    {
+      "id": "polarisation",
+      "name": "Polarisation",
+      "description": "Scénario analytique dans lequel la dispersion, la fragmentation et l’incertitude augmentent."
+    }
+  ],
+  "method": "Les données futures ne sont pas inventées comme des sondages. Le War Room affiche les observations disponibles et les échéances connues pour l’année sélectionnée. Les cadres de scénario servent à interpréter l’incertitude."
+}
